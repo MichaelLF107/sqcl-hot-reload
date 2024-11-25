@@ -1,4 +1,4 @@
-# sqcl-hot-reload README
+# sqcl-hot-reload
 
 sqlc-hot-reload auto runs the command `sqlc generate` on the background when a .sql file is saved on the current workspace.
 
