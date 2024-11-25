@@ -2,6 +2,7 @@
   "name": "sqcl-hot-reload",
   "displayName": "sqcl-hot-reload",
   "description": "Auto runs sqlc generate when saving SQL files",
+  "repository": "https://github.com/MichaelLF107/sqcl-hot-reload",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.95.0"
